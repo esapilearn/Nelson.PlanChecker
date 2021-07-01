@@ -24,5 +24,6 @@ namespace ESAPX_StarterUI.ViewModels.Tests
             Assert.AreEqual(expected, actual);
 
         }
+
     }
 }
